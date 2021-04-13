@@ -2,9 +2,9 @@
 
 
 
-#### Un ragazzo nato in italia, con  la passione per la tecnologia web , ed un interesse per la blockchain,  con l'obbiettivo di diventare uno sviluppatore web full-stack!
+### Un ragazzo nato in italia, con  la passione per la tecnologia web , ed un interesse per la blockchain,  con l'obbiettivo di diventare uno sviluppatore web full-stack!
 ---
- #### Studente Sviluppo Web start2impact
+ ### Studente Sviluppo Web start2impact
 ---
 
 
