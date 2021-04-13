@@ -35,7 +35,6 @@ per ora...ma sto provvedendo ad apprendere sempre di più....
 
 ### ***La strada è lunga e tortuosa ma la mia caparbietà e la mia resilienza mi faranno centrare l'obbiettivo superando gli ostacoli!***
 
-***
 
 
 
