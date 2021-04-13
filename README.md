@@ -2,7 +2,9 @@
 
 
 
-### Un ragazzo nato in italia, con  la passione per la tecnologia web , ed un interesse per la blockchain,  con l'obbiettivo di diventare uno sviluppatore web full-stack!
+#### Un ragazzo nato in italia, con  la passione per la tecnologia web , ed un interesse per la blockchain,  con l'obbiettivo di diventare uno sviluppatore web full-stack!
+---
+ #### Studente Sviluppo Web start2impact
 ---
 
 
@@ -11,7 +13,7 @@
 
 
 
-Ho studiato presso ***I.T.I.S. Don Giuseppe Morosini di Ferentino***,  appassionandomi al mondo dell'**informatica** e successivamente
+Ho studiato presso **I.T.I.S.**,  appassionandomi al mondo dell'**informatica** e successivamente
 alla tecnologia **web**.
 
 Ho svolto diversi lavori nella vita prima di decidere di mettermi sul serio seduto su una sedia davanti al  pc ad imparare seriamente quello che mi appassionava
