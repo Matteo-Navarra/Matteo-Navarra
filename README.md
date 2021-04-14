@@ -45,8 +45,8 @@ per ora...ma sto provvedendo ad apprendere sempre di più....
 
 ## Contattami 
 
-<a  href="https://www.linkedin.com/in/matteo-navarra-21825a156/" target= "_blank"> <img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" width="50"> </a> <a href="http://t.me/falcon3y3s" target="_blank"><img src="https://pics.freeicons.io/uploads/icons/png/21399810441555589926-512.png" width="50"></a> 
-<a href="http://t.me/falcon3y3s" target="_blank"><img src="https://camo.githubusercontent.com/076baccc1ee47b88028689749bbedafd50bfd63aaef6fd46cfcc0c99066dbb0d/68747470733a2f2f7777772e6672656569636f6e73706e672e636f6d2f75706c6f6164732f676d61696c2d69636f6e2d302e706e67" width="50"></a>
+<a  href="https://www.linkedin.com/in/matteo-navarra-21825a156/" > <img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" width="50"> </a> <a href="http://t.me/falcon3y3s" ><img src="https://pics.freeicons.io/uploads/icons/png/21399810441555589926-512.png" width="50"></a> 
+<a href="http://t.me/falcon3y3s" ><img src="https://camo.githubusercontent.com/076baccc1ee47b88028689749bbedafd50bfd63aaef6fd46cfcc0c99066dbb0d/68747470733a2f2f7777772e6672656569636f6e73706e672e636f6d2f75706c6f6164732f676d61696c2d69636f6e2d302e706e67" width="50"></a>
 
 
 
