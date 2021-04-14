@@ -18,7 +18,7 @@ alla tecnologia **web**.
 
 Ho svolto diversi lavori nella vita prima di decidere di mettermi sul serio seduto su una sedia davanti al  pc ad imparare seriamente quello che mi appassionava
 da sempre, fino a poco tempo fa (circa un mese fa) avevo programmato solamente a scuola in visual basic, oggi ho realizzato diversi **progetti per esercitarmi** in:
-*****
+
 
 | HTML | CSS | JAVASCRIPT |
 |---|---|--|
@@ -40,7 +40,16 @@ per ora...ma sto provvedendo ad apprendere sempre di più....
 
 
 
-### ***La strada è lunga e tortuosa ma la mia caparbietà e la mia resilienza mi faranno centrare l'obbiettivo superando gli ostacoli!***
+>### ***La strada è lunga e tortuosa ma la mia caparbietà e la mia resilienza mi faranno centrare l'obbiettivo superando gli ostacoli!***
+****
+
+## Contattami 
+
+<a href="https://www.linkedin.com/in/matteo-navarra-21825a156/"> <img src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" width="50"> </a> <a href="http://t.me/falcon3y3s"><img src="https://pics.freeicons.io/uploads/icons/png/21399810441555589926-512.png" width="50"></a> 
+<a href="http://t.me/falcon3y3s"><img src="https://camo.githubusercontent.com/076baccc1ee47b88028689749bbedafd50bfd63aaef6fd46cfcc0c99066dbb0d/68747470733a2f2f7777772e6672656569636f6e73706e672e636f6d2f75706c6f6164732f676d61696c2d69636f6e2d302e706e67" width="50"></a>
+
+
+
 
 
 
