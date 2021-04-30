@@ -2,7 +2,7 @@
 
 
 
-### Un ragazzo nato in italia, con  la passione per la tecnologia web, sono interessato al mondo della programmazione ed a nuove tecnologie
+### Un ragazzo nato in italia, con  la passione per la tecnologia web!
 ---
  ### Studente Sviluppo Web start2impact  
 ---
